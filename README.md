@@ -1,1 +1,1 @@
-# Coloquem informações do projeto aqui!
+# 💬 Projeto Huddle Landing Page
